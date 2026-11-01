@@ -45,6 +45,11 @@ Presented findings through visualizations and key performance indicators (KPIs).
 - Company Size: Medium-sized companies represented approximately 90.3% of the records.
 - Market Coverage: The dataset covers four years, from 2020 to 2023.
 
+## Power BI Dashboard
+![State of Data Jobs Dashboard](images/dashboard.png)
+
+## Project Resources
+
 ## Skills Demonstrated
 - SQL Data Cleaning and Transformation
 - SQL Aggregation and Grouping
