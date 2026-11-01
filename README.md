@@ -39,18 +39,13 @@ Imported the SQL summary table into Power BI.
 Developed an interactive dashboard to explore job market trends.
 Presented findings through visualizations and key performance indicators (KPIs).
 
-##### Key Findings
+## Key Findings
 - Job Categories: Data Science and Research recorded the highest aggregate salary total.
 - Work Arrangements: In-person roles accounted for approximately 61.3% of job records, followed by remote roles at 36.7%.
 - Company Size: Medium-sized companies represented approximately 90.3% of the records.
 - Market Coverage: The dataset covers four years, from 2020 to 2023.
-###### Conclusion
-This project provided an opportunity to explore the global data job market through an end-to-end data analytics process, transforming 9,355 raw job records into meaningful insights using SQL and Power BI.
 
-By applying SQL techniques for data cleaning, transformation, and aggregation, I prepared the dataset for analysis and developed an interactive Power BI dashboard to uncover patterns in salaries, job categories, experience levels, work arrangements, and company characteristics.
-
-Beyond the technical implementation, this project strengthened my ability to approach data with business questions in mind, translate complex datasets into understandable insights, and communicate findings through effective visualizations.
-###### Skills Demonstrated
+## Skills Demonstrated
 - SQL Data Cleaning and Transformation
 - SQL Aggregation and Grouping
 - Data Analysis and Interpretation
@@ -58,3 +53,10 @@ Beyond the technical implementation, this project strengthened my ability to app
 - Data Modeling and Visualization
 - Business Intelligence Reporting
 - Translating Data into Actionable Insights
+
+## Conclusion
+This project provided an opportunity to explore the global data job market through an end-to-end data analytics process, transforming 9,355 raw job records into meaningful insights using SQL and Power BI.
+
+By applying SQL techniques for data cleaning, transformation, and aggregation, I prepared the dataset for analysis and developed an interactive Power BI dashboard to uncover patterns in salaries, job categories, experience levels, work arrangements, and company characteristics.
+
+Beyond the technical implementation, this project strengthened my ability to approach data with business questions in mind, translate complex datasets into understandable insights, and communicate findings through effective visualizations.
