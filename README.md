@@ -12,7 +12,7 @@ The objective is to uncover meaningful insights into the data job market and sup
 5. How do job opportunities vary across company locations?
 6. How have data job trends changed between 2020 and 2023?
    
-### Tools Used
+## Tools Used
 1. MySQL Workbench: Data cleaning, transformation, aggregation, and SQL querying.
 2. Power BI Desktop: Data modeling, DAX, data visualization, and dashboard development.
 3. Microsoft Excel/CSV: Source dataset management.
