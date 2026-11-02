@@ -49,7 +49,14 @@ Presented findings through visualizations and key performance indicators (KPIs).
 ![State of Data Jobs Dashboard](State_of_Data_Jobs.png)
 
 ## Project Resources
+The following resources provide access to the dataset, SQL analysis, and Power BI dashboard used in this project.
 
+- **Dataset:** [View Original Dataset on Kaggle](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
+- **SQL Script:** [View SQL Analysis](data_jobs_analysis.sql)
+- **Power BI Dashboard:** [Download Power BI Dashboard](State_of_Data_Jobs_Dashboard.pbix)
+- **Dashboard Preview:** [View Dashboard Screenshot](State_of_Data_Jobs.png)
+- **Raw Dataset:** [Download CSV Dataset](jobs_in_data.csv)
+  
 ## Skills Demonstrated
 - SQL Data Cleaning and Transformation
 - SQL Aggregation and Grouping
