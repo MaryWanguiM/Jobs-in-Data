@@ -46,7 +46,7 @@ Presented findings through visualizations and key performance indicators (KPIs).
 - Market Coverage: The dataset covers four years, from 2020 to 2023.
 
 ## Power BI Dashboard
-![State of Data Jobs Dashboard](State_of_data_jobs.png)
+![State of Data Jobs Dashboard](State_of_Data_Jobs.png)
 
 ## Project Resources
 
